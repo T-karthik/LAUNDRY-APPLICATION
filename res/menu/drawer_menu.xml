@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/general">
+
+        <menu>
+            <item android:id="@+id/home"
+                android:title="@string/home"
+                android:icon="@drawable/ic_home_black_24dp"/>
+            <item android:id="@+id/QRscn"
+                android:title="@string/qr_scanner"/>
+            <item android:id="@+id/about"
+                android:title="About Us"
+                android:icon="@drawable/ic_contact_mail_black_24dp"/>
+
+            <item android:id="@+id/logout"
+                android:title="@string/log_out"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+
+        </menu>
+    </item>
+
+    <item android:title="@string/personal">
+        <menu>
+            <item android:id="@+id/personal"
+                android:title="@string/profile"
+                android:icon="@drawable/ic_person_outline_black_24dp"/>
+
+
+        </menu>
+    </item>
+
+</menu>

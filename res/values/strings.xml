@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">NU Laundry</string>
+    <string name="nu_laundry_app">NU LAUNDRY APP</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="alreay_registered_loginhere">Alreay Registered? LoginHere</string>
+    <string name="login">Login</string>
+    <string name="login_page">Login Page</string>
+    <string name="new_here_register">New here? Register</string>
+    <string name="re_enter_password">re-enter password</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_phone">Your Phone:</string>
+    <string name="your_name1">Your Name:</string>
+    <string name="your_email">Your Email:</string>
+    <string name="todo">TODO</string>
+    <string name="logout">Logout</string>
+    <string name="drawer_header">Drawer Header</string>
+    <string name="general">General</string>
+    <string name="home">Home</string>
+    <string name="qr_scanner">QR Scanner</string>
+    <string name="personal">Personal</string>
+    <string name="profile">Profile</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="result">Result</string>
+    <string name="nu_laundry">NU Laundry</string>
+    <string name="laundry_number">Laundry Number</string>
+
+    <string name="submissions">Submissions</string>
+
+    <string name="next_return">Next Return</string>
+
+    <string name="return1">return</string>
+    <string name="laundry_number1">laundry number</string>
+    <string name="laundry_no">Laundry No.</string>
+    <string name="submissions1">SUBMISSIONS</string>
+    <string name="owner_s_name">Owner\'s Name</string>
+
+    <string name="return11">Return</string>
+    <string name="next_return1">Next Return</string>
+    <string name="submission_date1">Submission Date</string>
+    <string name="next_submission1">Next Submission</string>
+    <string name="nu_laundry1">NU Laundry</string>
+    <string name="_1st1">1st</string>
+    <string name="_2nd1">2nd</string>
+    <string name="_3rd1">3rd</string>
+    <string name="_4th1">4th</string>
+    <string name="option1s">option1</string>
+    <string name="option2s">option2</string>
+    <string name="option3s">option3</string>
+    <string name="option4s">option4</string>
+    <string name="weekly_submission_day">weekly submission day</string>
+    <string name="weekly_collection_day">weekly collection day</string>
+    <string name="save">save</string>
+    <string name="weekly_return_day">weekly return day</string>
+</resources>
